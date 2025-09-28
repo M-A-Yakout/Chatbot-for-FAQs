@@ -163,8 +163,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Give a ⭐️ if this project helped you!
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/faq-chatbot.svg?style=social&label=Star)](https://github.com/your-username/faq-chatbot)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/faq-chatbot.svg?style=social&label=Fork)](https://github.com/your-username/faq-chatbot/fork)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/faq-chatbot.svg?style=social&label=Star)](https://github.com/M-A-Yakout/faq-chatbot)
+[![GitHub forks](https://img.shields.io/github/forks/your-username/faq-chatbot.svg?style=social&label=Fork)](https://github.com/M-A-Yakout/faq-chatbot/fork)
 
 ---
 
