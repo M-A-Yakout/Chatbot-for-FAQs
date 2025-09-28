@@ -75,8 +75,6 @@ faq-chatbot/
 ├── 📊 faqs.csv            # FAQ dataset (auto-generated)
 ├── 📋 requirements.txt    # Python dependencies
 ├── 📖 README.md          # Documentation
-└── 📁 assets/            # Screenshots and demos
-    └── 🖼️ demo.gif
 ```
 
 ---
